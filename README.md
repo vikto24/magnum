@@ -46,6 +46,7 @@
 ### 1. Клонуйте репозиторій
 ```bash
 git clone https://github.com/BonisOleg/magnum.git
+git clone https://github.com/vikto24/magnum.git
 cd magnum
 ```
 
