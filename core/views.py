@@ -16,14 +16,34 @@ logger = logging.getLogger(__name__)
 def landing(request):
     categories = ProductCategory.objects.filter(is_active=True).order_by("order")
     featured = Product.objects.filter(is_active=True).exclude(slug="").order_by("order")[:6]
+
+    testimonials = [
+        {
+            "name": "Олена Коваленко",
+            "text": _("Дуже задоволені якістю пакетів! Замовляємо для своєї пекарні вже більше року. Друк чіткий, доставка вчасна."),
+            "role": _("Власниця пекарні"),
+        },
+        {
+            "name": "ТОВ «Агро-Постач»",
+            "text": _("Мішки поліпропіленові високої якості. Витримують навантаження, не рвуться. Рекомендуємо GordiMarket як надійного партнера."),
+            "role": _("Партнер"),
+        },
+        {
+            "name": "Ігор Мельник",
+            "text": _("Швидко зв'язалися, проконсультували по плівці. Ціни приємні, сервіс на висоті."),
+            "role": _("Менеджер із закупівель"),
+        },
+    ]
+
     form = ContactForm()
     return render(request, "core/landing.html", {
         "categories": categories,
         "featured": featured,
+        "testimonials": testimonials,
         "form": form,
-        "page_title": _("Магнум — Виробництво упаковки"),
+        "page_title": _("GordiMarket — Виробництво упаковки"),
         "meta_description": _(
-            "Корпорація Магнум — виробництво якісного пакування, пакетів та плівки. "
+            "Корпорація GordiMarket — виробництво якісного пакування, пакетів та плівки. "
             "Дніпро. Замовте індивідуальне рішення для вашого бізнесу."
         ),
     })

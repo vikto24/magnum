@@ -74,7 +74,7 @@ class Command(BaseCommand):
                 "description": "",
                 "description_uk": "",
                 "description_en": "",
-                "brand": "Magnum",
+                "brand": "GordiMarket",
                 "availability": "InStock",
                 "meta_title": p["name_uk"],
                 "meta_title_uk": p["name_uk"],

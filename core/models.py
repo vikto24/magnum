@@ -17,7 +17,7 @@ class CompanyInfo(models.Model):
         verbose_name_plural = _("Інформація про компанію")
 
     def __str__(self):
-        return "Magnum — Інформація про компанію"
+        return "GordiMarket — Інформація про компанію"
 
     def save(self, *args, **kwargs):
         self.pk = 1

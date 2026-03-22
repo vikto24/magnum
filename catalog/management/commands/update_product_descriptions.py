@@ -14,12 +14,12 @@ PRODUCT_DESCRIPTIONS = {
 
 BOPP-плівка відрізняється високою міцністю, прозорістю та стійкістю до жирів і вологи. Пакети підходять для пакування хлібобулочних виробів, снеків, кондитерських виробів та інших товарів. Можливий флексографічний друк логотипу або маркування.
 
-Корпорація Магнум виробляє пакети ВОРР із липкою стрічкою на замовлення — різні розміри, товщини та тиражі. Замовляйте безпосередньо у виробника в Дніпрі.""",
+Корпорація GordiMarket виробляє пакети ВОРР із липкою стрічкою на замовлення — різні розміри, товщини та тиражі. Замовляйте безпосередньо у виробника в Дніпрі.""",
         "description_en": """BOPP bags with adhesive tape are made from biaxially oriented polypropylene (BOPP) film. The adhesive strip allows quick separation of bags and convenient placement on the shelf or production line.
 
 BOPP film offers high strength, transparency and resistance to fats and moisture. The bags are suitable for bakery products, snacks, confectionery and other goods. Flexographic printing of logo or labelling is available.
 
-Magnum Corporation produces BOPP bags with adhesive tape to order — various sizes, thicknesses and runs. Order directly from the manufacturer in Dnipro.""",
+GordiMarket Corporation produces BOPP bags with adhesive tape to order — various sizes, thicknesses and runs. Order directly from the manufacturer in Dnipro.""",
     },
     "pakety-perforaciya": {
         "short_description_uk": "Пакети з мікро- або макроперфорацією для «дихання» упаковки. Ідеальні для хліба, булок, зелені та квітів. Зберігають свіжість і захищають продукт.",
@@ -42,12 +42,12 @@ We produce perforated bags to your dimensions and runs. Dnipro, delivery across 
 
 Застосування: харчова продукція (хліб, овочі, заморозка), побутова хімія, промислові товари. Можливість нанесення флексографічного друку в кілька кольорів — логотип, маркування, дизайн. Контроль якості на всіх етапах виробництва.
 
-Magnum виробляє пакети LDPE у Дніпрі. Індивідуальні розміри, товщина від 25 мкм, мінімальні партії уточнюйте у менеджера.""",
+GordiMarket виробляє пакети LDPE у Дніпрі. Індивідуальні розміри, товщина від 25 мкм, мінімальні партії уточнюйте у менеджера.""",
         "description_en": """LDPE bags are made from low-density polyethylene. The material is elastic, transparent and well suited for packaging products with uneven surfaces. High tear and puncture resistance ensures reliability in transport and storage.
 
 Applications: food products (bread, vegetables, frozen goods), household chemicals, industrial goods. Multi-colour flexographic printing available — logo, labelling, design. Quality control at all production stages.
 
-Magnum produces LDPE bags in Dnipro. Custom sizes, thickness from 25 µm; minimum order quantities on request.""",
+GordiMarket produces LDPE bags in Dnipro. Custom sizes, thickness from 25 µm; minimum order quantities on request.""",
     },
     "pakety-hdpe": {
         "short_description_uk": "Пакети з поліетилену високої щільності (HDPE). Міцні, матові або напівпрозорі. Для важких вантажів, сміття, промислового та господарського призначення.",
@@ -56,12 +56,12 @@ Magnum produces LDPE bags in Dnipro. Custom sizes, thickness from 25 µm; minimu
 
 Застосування: упаковка важких та гострих предметів, побутове сміття, промислове пакування, господарські та будівельні потреби. Можливий друк для брендування та маркування.
 
-Виробництво пакетів HDPE на замовлення — різні розміри та щільність. Корпорація Магнум, Дніпро. Оптові ціни, доставка по Україні.""",
+Виробництво пакетів HDPE на замовлення — різні розміри та щільність. Корпорація GordiMarket, Дніпро. Оптові ціни, доставка по Україні.""",
         "description_en": """HDPE bags are made from high-density polyethylene. They offer greater strength and rigidity than LDPE. Matte or semi-transparent appearance, resistance to mechanical stress.
 
 Applications: packaging of heavy and sharp items, household waste, industrial packaging, domestic and construction use. Printing available for branding and labelling.
 
-HDPE bags made to order — various sizes and density. Magnum Corporation, Dnipro. Wholesale prices, delivery across Ukraine.""",
+HDPE bags made to order — various sizes and density. GordiMarket Corporation, Dnipro. Wholesale prices, delivery across Ukraine.""",
     },
     "pakety-biorozkladni": {
         "short_description_uk": "Екологічні пакети, що розкладаються в природному середовищі. Зменшують навантаження на довкілля. Для торгівлі, промисловості та побуту.",
@@ -70,12 +70,12 @@ HDPE bags made to order — various sizes and density. Magnum Corporation, Dnipr
 
 Застосування: торгівля (фасовка, перенос товарів), виставки, події, господарське використання там, де важлива екологічна свідомість. Можливий друк логотипу для брендованої еко-упаковки.
 
-Корпорація Магнум пропонує біорозкладні пакети на замовлення. Консультуємо щодо матеріалів, термінів розкладання та умов замовлення.""",
+Корпорація GordiMarket пропонує біорозкладні пакети на замовлення. Консультуємо щодо матеріалів, термінів розкладання та умов замовлення.""",
         "description_en": """Biodegradable bags are made from materials that break down under the action of microorganisms, moisture and oxygen. This shortens the lifetime of waste in the environment compared to conventional polyethylene.
 
 Applications: retail (portioning, carrying goods), exhibitions, events, household use where environmental awareness matters. Logo printing available for branded eco-packaging.
 
-Magnum Corporation offers biodegradable bags to order. We advise on materials, degradation times and order terms.""",
+GordiMarket Corporation offers biodegradable bags to order. We advise on materials, degradation times and order terms.""",
     },
     "plivka-polietilenova": {
         "short_description_uk": "Поліетиленова плівка (PE) для пакування: прозора, еластична, з контролем якості. Флексодрук, різні товщини. Харчова та промислова сфера.",
@@ -84,12 +84,12 @@ Magnum Corporation offers biodegradable bags to order. We advise on materials, d
 
 Характеристики: морозостійкість, низька поглинальна здатність, стійкість до жирів та вологи. Застосування — харчова упаковка (хліб, овочі, заморозка), промислові товари, палітурка. Можливий флексографічний друк у кілька кольорів.
 
-Виробляємо поліетиленову плівку у Дніпрі. Різна товщина та ширина рулону. Замовлення від виробника Magnum, доставка по Україні.""",
+Виробляємо поліетиленову плівку у Дніпрі. Різна товщина та ширина рулону. Замовлення від виробника GordiMarket, доставка по Україні.""",
         "description_en": """Polyethylene film is one of the most common packaging materials. High transparency allows product visibility; elasticity and strength provide reliable protection. Quality control at all production stages.
 
 Properties: frost resistance, low absorbency, resistance to fats and moisture. Applications — food packaging (bread, vegetables, frozen goods), industrial goods, overwrapping. Multi-colour flexographic printing available.
 
-We produce polyethylene film in Dnipro. Various thickness and reel width. Orders from Magnum manufacturer, delivery across Ukraine.""",
+We produce polyethylene film in Dnipro. Various thickness and reel width. Orders from GordiMarket manufacturer, delivery across Ukraine.""",
     },
     "plivka-cpp": {
         "short_description_uk": "Каст-плівка поліпропіленова (CPP) — термозварювана, для ламінації та багатошарових структур. Міжшаровий друк, висока прозорість.",
@@ -98,12 +98,12 @@ We produce polyethylene film in Dnipro. Various thickness and reel width. Orders
 
 Застосування: упаковка снеків, кондитерських виробів, бакалії, господарських товарів. Можливість міжшарового друку та ламінації для створення складних бар'єрних пакетів. Висока стійкість до жирів і вологи.
 
-Корпорація Магнум виробляє CPP-плівку та композитні рішення на замовлення. Консультуємо щодо товщини, ширини рулону та тиражів.""",
+Корпорація GordiMarket виробляє CPP-плівку та композитні рішення на замовлення. Консультуємо щодо товщини, ширини рулону та тиражів.""",
         "description_en": """CPP (cast polypropylene) film is polypropylene film produced by cast extrusion. Heat-sealable, with good clarity and gloss. Widely used in multilayer packaging structures together with BOPP, PET, PE and aluminium foil.
 
 Applications: packaging of snacks, confectionery, groceries, household goods. Interlayer printing and lamination available for complex barrier pouches. High resistance to fats and moisture.
 
-Magnum Corporation produces CPP film and composite solutions to order. We advise on thickness, reel width and runs.""",
+GordiMarket Corporation produces CPP film and composite solutions to order. We advise on thickness, reel width and runs.""",
     },
     "plivka-druk": {
         "short_description_uk": "Плівка з флексографічним друком: логотипи, маркування, дизайн. До 8 кольорів. Для снеків, кондитерки, бакалії, промислових товарів.",
@@ -112,12 +112,12 @@ Magnum Corporation produces CPP film and composite solutions to order. We advise
 
 Застосування: снекова продукція, кондитерські вироби, бакалія, напої, господарські товари, корм для тварин. Друк забезпечує брендування та відповідність вимогам до маркування харчових продуктів.
 
-Виробництво плівки з друком у Magnum (Дніпро): розробка дизайну, переддрукарська підготовка, виготовлення на замовлення. Оптові тиражі, доставка по Україні.""",
+Виробництво плівки з друком у GordiMarket (Дніпро): розробка дизайну, переддрукарська підготовка, виготовлення на замовлення. Оптові тиражі, доставка по Україні.""",
         "description_en": """Printed film is packaging film (PE, BOPP, CPP, etc.) with flexographic printing applied. It enables bright, informative packaging with logo, labelling and graphic design. Up to 8 colours in a single pass.
 
 Applications: snack products, confectionery, groceries, beverages, household goods, animal feed. Printing provides branding and compliance with food labelling requirements.
 
-Printed film production at Magnum (Dnipro): design development, prepress, custom manufacturing. Wholesale runs, delivery across Ukraine.""",
+Printed film production at GordiMarket (Dnipro): design development, prepress, custom manufacturing. Wholesale runs, delivery across Ukraine.""",
     },
     "plivka-perforaciya": {
         "short_description_uk": "«Дихаюча» плівка з перфорацією для свіжої зелені, квітів, хліба. Регулює вологість і доступ кисню. Зберігає товарний вигляд.",
@@ -126,12 +126,12 @@ Printed film production at Magnum (Dnipro): design development, prepress, custom
 
 Застосування: упаковка свіжої зелені (кроп, петрушка, салати), квітів у горщиках та букетів, хліба та булок, частини овочів. Можливий друк для брендування.
 
-Magnum виробляє перфоровану плівку на замовлення. Консультуємо щодо типу перфорації та розмірів рулону.""",
+GordiMarket виробляє перфоровану плівку на замовлення. Консультуємо щодо типу перфорації та розмірів рулону.""",
         "description_en": """Perforated film ensures controlled gas and moisture exchange inside the package. This extends freshness of breathable products — herbs, flowers, bakery. Micro- or macro-perforation is chosen according to product type.
 
 Applications: packaging of fresh herbs (dill, parsley, salads), potted and cut flowers, bread and buns, some vegetables. Printing available for branding.
 
-Magnum produces perforated film to order. We advise on perforation type and reel dimensions.""",
+GordiMarket produces perforated film to order. We advise on perforation type and reel dimensions.""",
     },
     "mishky-polipropilenovi": {
         "short_description_uk": "Мішки з поліпропілену для промислового пакування: борошно, цукор, добрива, будматеріали. Різна щільність, міцність, можливість друку.",
@@ -140,12 +140,12 @@ Magnum produces perforated film to order. We advise on perforation type and reel
 
 Застосування: борошно, цукор, крупи, добрива, будівельні суміші, комбікорми, промислові напівфабрикати. Можливий друк логотипу та маркування для брендованих партій.
 
-Корпорація Магнум виробляє поліпропіленові мішки в Дніпрі. Різні розміри та щільність, оптові партії, доставка по Україні.""",
+Корпорація GordiMarket виробляє поліпропіленові мішки в Дніпрі. Різні розміри та щільність, оптові партії, доставка по Україні.""",
         "description_en": """Polypropylene bags are strong, economical packaging for bulk and piece goods. They withstand heavy loads and are resistant to tears and punctures. Available in various densities (from lightweight to woven) depending on application.
 
 Applications: flour, sugar, grains, fertilisers, building mixes, animal feed, industrial semi-finished products. Logo and labelling printing available for branded batches.
 
-Magnum Corporation produces polypropylene bags in Dnipro. Various sizes and density, wholesale batches, delivery across Ukraine.""",
+GordiMarket Corporation produces polypropylene bags in Dnipro. Various sizes and density, wholesale batches, delivery across Ukraine.""",
     },
     "papirovi-pakety": {
         "short_description_uk": "Паперові пакети з друком логотипу та дизайну. Екологічні, презентабельні. Для ритейлу, подарунків, брендованої упаковки.",
@@ -154,12 +154,12 @@ Magnum Corporation produces polypropylene bags in Dnipro. Various sizes and dens
 
 Можливості: друк логотипу, повнокольоровий дизайн, різні розміри та форми (з ручками, без ручок, з клапаном). Застосування — магазини одягу та взуття, пекарні, кав'ярні, подарункова упаковка, промо-акції.
 
-Виробляємо паперові пакети на замовлення. Magnum, Дніпро. Розробка дизайну та переддрукарська підготовка.""",
+Виробляємо паперові пакети на замовлення. GordiMarket, Дніпро. Розробка дизайну та переддрукарська підготовка.""",
         "description_en": """Paper bags are an eco-friendly alternative to polyethylene. Paper is more recyclable and degrades better in the environment than plastic. Their presentable look makes them suitable for retail, gifts and corporate packaging.
 
 Options: logo printing, full-colour design, various sizes and shapes (with handles, without handles, with flap). Applications — clothing and footwear stores, bakeries, cafés, gift packaging, promotions.
 
-We produce paper bags to order. Magnum, Dnipro. Design and prepress services.""",
+We produce paper bags to order. GordiMarket, Dnipro. Design and prepress services.""",
     },
     "doj-pak": {
         "short_description_uk": "Стоячий пакет типу «дой-пак» (пауч) для сипких продуктів, напоїв, соусів. Зручний дозатор, яскравий друк. Від виробника.",
@@ -168,12 +168,12 @@ We produce paper bags to order. Magnum, Dnipro. Design and prepress services."""
 
 Переваги: яскравий флексодрук, можливість дозатора для контролю порції, герметичність, економія матеріалу. Застосування — харчова промисловість, господарські товари, корми для тварин.
 
-Корпорація Магнум виробляє пакети дой-пак на замовлення. Розробка форми, друк, тиражі під ваш продукт. Дніпро, доставка по Україні.""",
+Корпорація GordiMarket виробляє пакети дой-пак на замовлення. Розробка форми, друк, тиражі під ваш продукт. Дніпро, доставка по Україні.""",
         "description_en": """Doy-pack (standing pouch, spout pouch) is a flexible standing package with a base and often a dispenser or valve. Suitable for bulk products, beverages, sauces, ketchups, honey, snacks. Takes up less space in storage and transport than rigid packaging.
 
 Benefits: bright flexo printing, optional dispenser for portion control, sealability, material savings. Applications — food industry, household goods, animal feed.
 
-Magnum Corporation produces doy-pack pouches to order. Shape development, printing, runs for your product. Dnipro, delivery across Ukraine.""",
+GordiMarket Corporation produces doy-pack pouches to order. Shape development, printing, runs for your product. Dnipro, delivery across Ukraine.""",
     },
 }
 
